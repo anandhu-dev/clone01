@@ -21,7 +21,7 @@ PM_START_TEXT = """
 Hey {}, Enteperu {}! kozhitharam kaanikaan kerivannathanel kandamvazhi vitto. 😋 njan oru pennalla robot aanu.🙆‍♀️🙋‍♀️
 nammude [status page](https://www.facebook.com/malayalamstatusvideos.page/) nte group manage cheyyan vendi aanu ene recreate cheythirikkunnath. 😌
 ente owner [Anandhu](tg://user?id={}) aanu. ithupole oru botine ningade groupinu aavashyam undenkil [kannan](tg://user?id={}) nu message ayakku. 😉
-status pageinte telegram groupil member allenkil join cheyyu.. [Whatsapp Status](https://t.me/malayalamstatussvideos)  😎😍
+status pageinte telegram groupil member allenkil join cheyyu.. [Whatsapp Status](https://t.me/malayalamstatussvideos)  😎😍..
 
 """
 
